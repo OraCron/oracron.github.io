@@ -54,7 +54,7 @@
     
     
     /*==================================================================
-    [ Simple slide100 ]*/
+    [ Simple slide100 ]
 
     $('.simpleslide100').each(function(){
         var delay = 7000;
@@ -73,7 +73,7 @@
             nowSlide++;
             if(nowSlide >= itemSlide.length) {nowSlide = 0;}
         },delay);
-    });
+    }); */
 
 
 })(jQuery);
