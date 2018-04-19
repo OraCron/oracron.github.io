@@ -73,7 +73,7 @@
             nowSlide++;
             if(nowSlide >= itemSlide.length) {nowSlide = 0;}
         },delay);
-    }); */
+    }); sterge*/
 
 
 })(jQuery);
